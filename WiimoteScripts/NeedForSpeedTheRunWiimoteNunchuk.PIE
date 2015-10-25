@@ -1,42 +1,48 @@
-﻿// Requires a sensor bar
-Wiimote.Led1 = true
+﻿// LED Sequence
+Wiimote.Led1 = false
+Wiimote.Led2 = true
+Wiimote.Led3 = true
+Wiimote.Led4 = false
 
-// Mouse movement
-if wiimote.PointerVisible but not var.PointerBump then
-mouse.x = wiimote.PointerX
-mouse.y = wiimote.PointerY
+// Arrow Keys, WASD
+key.Up = Wiimote.Up or Wiimote.Nunchuk.JoyY < -0.4 //Wiimote.Nunchuk.Up
+key.Down = Wiimote.Down or Wiimote.Nunchuk.JoyY > 0.4 //Wiimote.Nunchuk.Down
+key.Left = Wiimote.Left or Wiimote.Nunchuk.JoyX < -0.4 //Wiimote.Nunchuk.Left
+key.Right = Wiimote.Right or Wiimote.Nunchuk.JoyX > 0.4 //Wiimote.Nunchuk.Right
+
+key.W = Wiimote.Up or Wiimote.Nunchuk.JoyY < -0.4 //Wiimote.Nunchuk.Up
+key.S = Wiimote.Down or Wiimote.Nunchuk.JoyY > 0.4 //Wiimote.Nunchuk.Down
+key.A = Wiimote.Left or Wiimote.Nunchuk.JoyX < -0.4 //Wiimote.Nunchuk.Left
+key.D = Wiimote.Right or Wiimote.Nunchuk.JoyX > 0.4 //Wiimote.Nunchuk.Right
+
+// Accelerate, Nitrous
+key.A = Wiimote.A
+key.N = Wiimote.Nunchuk.C
+
+// Brake, Handbrake
+key.Z = Wiimote.B
+key.Space = Wiimote.Nunchuk.Z
+
+// Camera, Look Back
+key.C = Wiimote.Up
+key.V = Wiimote.Down
+
+// Menu Selection, Back, Escape
+key.Enter = Wiimote.A
+key.Backspace = Wiimote.B
+key.Escape = Wiimote.Home
+
+// Check Accessory
+if Wiimote.HasNunchuk then
+  var.expansion =
+                Wiimote.Nunchuk.JoyX + ',' +
+                Wiimote.Nunchuk.JoyY
+                te.Nunchuk.gy + ',' +
+                Wiimote.Nunchuk.gz + "; "
+else if Wiimote.HasClassic then
+  var.expansion = 'CL: ' + Wiimote.Classic.RawJoy1X + ',' +
+                  Wiimote.Classic.RawJoy1Y + "; "
+else
+  var.expansion = ""
 end if
-
-// Mouse Buttons
-mouse.LeftButton = Wiimote.A and KeepDown(Wiimote.PointerVisible,0.5s)
-mouse.RightButton = Wiimote.B and KeepDown(Wiimote.PointerVisible,0.5s)
-mouse.MiddleButton = Wiimote.One and KeepDown(Wiimote.PointerVisible,0.5s)
-
-
-// Mouse Wheel
-if wiimote.Plus then
-mouse.WheelUp = true
-wait 30ms
-mouse.WheelUp = false
-wait 30ms
-end if
-if wiimote.Minus then
-mouse.WheelDown = true
-wait 30ms
-mouse.WheelDown = false
-wait 30ms
-end if
-
-// Keyboard
-key.W = Wiimote.Nunchuk.JoyY < -0.4
-key.S = Wiimote.Nunchuk.JoyY > 0.4
-key.A = Wiimote.Nunchuk.JoyX < -0.4
-key.D = Wiimote.Nunchuk.JoyX > 0.4
-key.Space = wiimote.Nunchuk.Z
-key.LeftControl = wiimote.Nunchuk.C
-key.Tab = wiimote.Down
-key.1 = wiimote.Left
-key.2 = wiimote.Right
-key.3 = wiimote.Up
-key.LeftShift = wiimote.Two
-key.Escape = wiimote.Home
+debug = var.Expansion+';  Bat='+Wiimote.Battery+'; Pitch='+RemoveUnits(Wiimote.Pitch)+' Roll='+RemoveUnits(Wiimote.Roll)+'; '+Wiimote.RelAccX+', '+Wiimote.RelAccY+', '+Wiimote.RelAccZ
