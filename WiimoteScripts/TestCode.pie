@@ -1,0 +1,35 @@
+// Arrow Keys, WASD
+Numpad = Wiimote.DPad
+WASD = Nunchuk.Joy
+
+// Camera controls
+Mouse.DirectInputX += Deadzone(Classic.RightStickX)^3 * 10
+Mouse.DirectInputY += Deadzone(Classic.RightStickY)^3 * 10
+
+// Rumble
+Wiimote.Rumble = Shift
+
+// Wait
+if Wiimote.Up then
+	Key.Left = true
+	wait 60 ms
+	Key.Left = false
+end if
+
+// Clicks
+if SingleClicked(Wiimote.Two) then
+  var.SusanMode = false
+  var.LinkMode = true
+  var.BobMode = false
+end if
+
+if DoubleClicked(Wiimote.One) then
+  var.SusanMode = false
+  var.LinkMode = false
+  var.BobMode = true
+end if
+
+// Pressed
+if pressed(var.BobMode) then say "Bob"
+if pressed(var.LinkMode) then say "The Missing Link"
+if pressed(var.SusanMode) then say "Ginormica"
