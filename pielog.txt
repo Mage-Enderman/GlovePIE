@@ -1,0 +1,682 @@
+(0, 25-Oct-2015 03:19:38) Initializing PieLog
+(0, 25-Oct-2015 03:19:38) Initializing filemode variable
+(0, 25-Oct-2015 03:19:38) Initializing PieSpeech
+(0, 25-Oct-2015 03:19:38) Initializing PieVariables
+(0, 25-Oct-2015 03:19:38) Initializing PieCursorUnit
+(0, 25-Oct-2015 03:19:38) Initializing PieMouse
+(0, 25-Oct-2015 03:19:38) Initializing PieKeyboard
+(0, 25-Oct-2015 03:19:38) Initializing PieInput
+(0, 25-Oct-2015 03:19:38) Initializing PieOSC
+(0, 25-Oct-2015 03:19:38) Initializing PiePie
+(0, 25-Oct-2015 03:19:38) Initializing PieFunction
+(0, 25-Oct-2015 03:19:38) Initializing PieStatement
+(0, 25-Oct-2015 03:19:38) Initializing PieExpression
+(0, 25-Oct-2015 03:19:38) Initializing PieJoystick
+(0, 25-Oct-2015 03:19:38) Initializing PieP5
+(0, 25-Oct-2015 03:19:38) Initializing PieMidi
+(0, 25-Oct-2015 03:19:38) Initializing PiePPJoy
+(0, 25-Oct-2015 03:19:38) Initializing PieRemote
+(0, 25-Oct-2015 03:19:38) Initializing Pie Speech Recognition
+(0, 25-Oct-2015 03:19:38) Initializing PieScreen
+(0, 25-Oct-2015 03:19:38) GetMonitorEDID
+(0, 25-Oct-2015 03:19:38) Initializing PieWIndow
+(0, 25-Oct-2015 03:19:38) Initializing PieCursors
+(0, 25-Oct-2015 03:19:38) Initializing PieZ800
+(0, 25-Oct-2015 03:19:38) Initializing PieIntersense
+(0, 25-Oct-2015 03:19:38) Initializing PieFastrak
+(0, 25-Oct-2015 03:19:38) Initializing PiePPT
+(0, 25-Oct-2015 03:19:38) Initializing PieTrackIR
+(0, 25-Oct-2015 03:19:38) Initializing PiePinch
+(0, 25-Oct-2015 03:19:38) Initializing PieBird
+(0, 25-Oct-2015 03:19:38) Initializing PieFiveDT
+(0, 25-Oct-2015 03:19:38) Starting main
+(0, 25-Oct-2015 03:19:38) Application object initialized
+(0, 25-Oct-2015 03:19:38) Creating main window
+(0, 25-Oct-2015 03:19:38) EditorForm.Create
+(0, 25-Oct-2015 03:19:38) Checking command line parameters:
+(0, 25-Oct-2015 03:19:38) Creating debug window
+(0, 25-Oct-2015 03:19:38) Assigning exception handler
+(0, 25-Oct-2015 03:19:38) Creating debug remote control window
+(0, 25-Oct-2015 03:19:38) Running application
+(0, 25-Oct-2015 03:20:01) File>Open
+(0, 25-Oct-2015 03:20:44) File>Save
+(0, 25-Oct-2015 03:20:44) File>Save As
+(0, 25-Oct-2015 03:20:56) RunButton
+(0, 25-Oct-2015 03:20:56) Compile>Run
+(0, 25-Oct-2015 03:20:56) CompileCode
+(0, 25-Oct-2015 03:20:56) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:20:56) EnumerateJoysticks
+(0, 25-Oct-2015 03:20:56) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:20:56) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:20:56) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:20:56) StartRuntime
+(0, 25-Oct-2015 03:20:56) StartKeyboardMonitor
+(0, 25-Oct-2015 03:20:56) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:20:59) StartRuntimeJoystick
+(0, 25-Oct-2015 03:20:59) ************************* False
+(0, 25-Oct-2015 03:21:08) StopButton
+(0, 25-Oct-2015 03:21:08) Compile>Stop
+(0, 25-Oct-2015 03:21:08) StopRuntime
+(0, 25-Oct-2015 03:21:08) StopKeyboardMonitor
+(0, 25-Oct-2015 03:21:08) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:21:08) StopRuntimeJoystick
+(0, 25-Oct-2015 03:22:29) RunButton
+(0, 25-Oct-2015 03:22:29) Compile>Run
+(0, 25-Oct-2015 03:22:29) CompileCode
+(0, 25-Oct-2015 03:22:29) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:22:29) EnumerateJoysticks
+(0, 25-Oct-2015 03:22:29) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:22:29) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:22:29) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:22:29) StartRuntime
+(0, 25-Oct-2015 03:22:29) StartKeyboardMonitor
+(0, 25-Oct-2015 03:22:29) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:22:29) StartRuntimeJoystick
+(0, 25-Oct-2015 03:22:29) ************************* False
+(0, 25-Oct-2015 03:22:34) StopButton
+(0, 25-Oct-2015 03:22:34) Compile>Stop
+(0, 25-Oct-2015 03:22:34) StopRuntime
+(0, 25-Oct-2015 03:22:34) StopKeyboardMonitor
+(0, 25-Oct-2015 03:22:34) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:22:34) StopRuntimeJoystick
+(0, 25-Oct-2015 03:22:36) Midi GUI Page
+(0, 25-Oct-2015 03:22:36) CompileCodeA
+(0, 25-Oct-2015 03:22:36) CompileCode
+(0, 25-Oct-2015 03:22:36) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:22:36) EnumerateJoysticks
+(0, 25-Oct-2015 03:22:36) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:22:36) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:22:36) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:22:36) SetMidiLine(63)
+(0, 25-Oct-2015 03:22:36) Midi DeviceBoxChange
+(0, 25-Oct-2015 03:22:36) Midi ChannelBoxChange
+(0, 25-Oct-2015 03:22:36) Midi CategoryBox change
+(0, 25-Oct-2015 03:22:36) MidiFieldBoxClick
+(0, 25-Oct-2015 03:22:37) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:22:37) MidiFuncBoxChange
+(0, 25-Oct-2015 03:22:37) MidiOpBoxChange
+(0, 25-Oct-2015 03:22:37) MidiFieldBoxClick
+(0, 25-Oct-2015 03:22:37) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:22:37) MidiFuncBoxChange
+(0, 25-Oct-2015 03:22:37) MidiOpBoxChange
+(0, 25-Oct-2015 03:22:37) Midi ChannelBoxChange
+(0, 25-Oct-2015 03:22:37) Midi CategoryBox change
+(0, 25-Oct-2015 03:22:37) MidiFieldBoxClick
+(0, 25-Oct-2015 03:22:37) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:22:37) MidiFuncBoxChange
+(0, 25-Oct-2015 03:22:37) MidiOpBoxChange
+(0, 25-Oct-2015 03:22:37) MidiFieldBoxClick
+(0, 25-Oct-2015 03:22:37) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:22:37) MidiFuncBoxChange
+(0, 25-Oct-2015 03:22:37) MidiOpBoxChange
+(0, 25-Oct-2015 03:22:37) Midi CategoryBox change
+(0, 25-Oct-2015 03:22:37) MidiFieldBoxClick
+(0, 25-Oct-2015 03:22:37) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:22:37) MidiFuncBoxChange
+(0, 25-Oct-2015 03:22:37) MidiOpBoxChange
+(0, 25-Oct-2015 03:22:37) MidiFieldBoxClick
+(0, 25-Oct-2015 03:22:37) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:22:37) MidiFuncBoxChange
+(0, 25-Oct-2015 03:22:37) MidiOpBoxChange
+(0, 25-Oct-2015 03:22:38) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:22:38) EnumerateJoysticks
+(0, 25-Oct-2015 03:22:38) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:22:38) StartingInputMonitor Mouse
+(0, 25-Oct-2015 03:22:38) StartKeyboardMonitor
+(0, 25-Oct-2015 03:22:38) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:22:38) StartRuntimeJoystick
+(0, 25-Oct-2015 03:22:38) StartJoystickMonitor
+(0, 25-Oct-2015 03:22:38) StartingInputMonitor Joystick
+(0, 25-Oct-2015 03:22:38) EnumerateJoysticks
+(0, 25-Oct-2015 03:22:38) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:22:38) CreateJoystickDevices
+(0, 25-Oct-2015 03:22:38) CreateForceFeedbackDevices
+(0, 25-Oct-2015 03:22:42) Variable Page
+(0, 25-Oct-2015 03:22:43) StoppingInputMonitor Mouse
+(0, 25-Oct-2015 03:22:43) StopKeyboardMonitor
+(0, 25-Oct-2015 03:22:43) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:22:43) StopRuntimeJoystick
+(0, 25-Oct-2015 03:22:43) StopJoystickMonitor
+(0, 25-Oct-2015 03:22:43) StoppingInputMonitor Joystick
+(0, 25-Oct-2015 03:22:43) MidiFieldBoxClick
+(0, 25-Oct-2015 03:22:43) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:22:43) MidiFuncBoxChange
+(0, 25-Oct-2015 03:22:43) MidiOpBoxChange
+(0, 25-Oct-2015 03:22:43) Midi DeviceBoxChange
+(0, 25-Oct-2015 03:22:44) Midi GUI Page
+(0, 25-Oct-2015 03:22:44) CompileCodeA
+(0, 25-Oct-2015 03:22:44) CompileCode
+(0, 25-Oct-2015 03:22:44) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:22:44) EnumerateJoysticks
+(0, 25-Oct-2015 03:22:44) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:22:44) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:22:44) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:22:44) SetMidiLine(63)
+(0, 25-Oct-2015 03:22:44) Midi DeviceBoxChange
+(0, 25-Oct-2015 03:22:44) Midi ChannelBoxChange
+(0, 25-Oct-2015 03:22:44) Midi CategoryBox change
+(0, 25-Oct-2015 03:22:44) MidiFieldBoxClick
+(0, 25-Oct-2015 03:22:44) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:22:44) MidiFuncBoxChange
+(0, 25-Oct-2015 03:22:44) MidiOpBoxChange
+(0, 25-Oct-2015 03:22:44) MidiFieldBoxClick
+(0, 25-Oct-2015 03:22:44) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:22:44) MidiFuncBoxChange
+(0, 25-Oct-2015 03:22:44) MidiOpBoxChange
+(0, 25-Oct-2015 03:22:44) Midi ChannelBoxChange
+(0, 25-Oct-2015 03:22:44) Midi CategoryBox change
+(0, 25-Oct-2015 03:22:44) MidiFieldBoxClick
+(0, 25-Oct-2015 03:22:44) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:22:44) MidiFuncBoxChange
+(0, 25-Oct-2015 03:22:44) MidiOpBoxChange
+(0, 25-Oct-2015 03:22:44) MidiFieldBoxClick
+(0, 25-Oct-2015 03:22:44) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:22:44) MidiFuncBoxChange
+(0, 25-Oct-2015 03:22:44) MidiOpBoxChange
+(0, 25-Oct-2015 03:22:44) Midi CategoryBox change
+(0, 25-Oct-2015 03:22:44) MidiFieldBoxClick
+(0, 25-Oct-2015 03:22:44) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:22:44) MidiFuncBoxChange
+(0, 25-Oct-2015 03:22:44) MidiOpBoxChange
+(0, 25-Oct-2015 03:22:44) MidiFieldBoxClick
+(0, 25-Oct-2015 03:22:44) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:22:44) MidiFuncBoxChange
+(0, 25-Oct-2015 03:22:44) MidiOpBoxChange
+(0, 25-Oct-2015 03:22:45) Script Page
+(0, 25-Oct-2015 03:22:52) RunButton
+(0, 25-Oct-2015 03:22:52) Compile>Run
+(0, 25-Oct-2015 03:22:52) CompileCode
+(0, 25-Oct-2015 03:22:52) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:22:52) EnumerateJoysticks
+(0, 25-Oct-2015 03:22:52) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:22:52) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:22:52) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:22:52) StartRuntime
+(0, 25-Oct-2015 03:22:52) StartKeyboardMonitor
+(0, 25-Oct-2015 03:22:52) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:22:52) StartRuntimeJoystick
+(0, 25-Oct-2015 03:22:52) ************************* False
+(0, 25-Oct-2015 03:23:14) StopButton
+(0, 25-Oct-2015 03:23:14) Compile>Stop
+(0, 25-Oct-2015 03:23:14) StopRuntime
+(0, 25-Oct-2015 03:23:14) StopKeyboardMonitor
+(0, 25-Oct-2015 03:23:14) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:23:14) StopRuntimeJoystick
+(0, 25-Oct-2015 03:23:14) RunButton
+(0, 25-Oct-2015 03:23:14) Compile>Run
+(0, 25-Oct-2015 03:23:14) CompileCode
+(0, 25-Oct-2015 03:23:14) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:23:14) EnumerateJoysticks
+(0, 25-Oct-2015 03:23:14) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:23:14) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:23:14) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:23:14) StartRuntime
+(0, 25-Oct-2015 03:23:14) StartKeyboardMonitor
+(0, 25-Oct-2015 03:23:14) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:23:14) StartRuntimeJoystick
+(0, 25-Oct-2015 03:23:14) ************************* False
+(0, 25-Oct-2015 03:23:20) StopButton
+(0, 25-Oct-2015 03:23:20) Compile>Stop
+(0, 25-Oct-2015 03:23:20) StopRuntime
+(0, 25-Oct-2015 03:23:20) StopKeyboardMonitor
+(0, 25-Oct-2015 03:23:20) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:23:20) StopRuntimeJoystick
+(0, 25-Oct-2015 03:24:21) RunButton
+(0, 25-Oct-2015 03:24:21) Compile>Run
+(0, 25-Oct-2015 03:24:21) CompileCode
+(0, 25-Oct-2015 03:24:21) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:24:21) EnumerateJoysticks
+(0, 25-Oct-2015 03:24:21) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:24:21) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:24:21) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:24:21) StartRuntime
+(0, 25-Oct-2015 03:24:21) StartKeyboardMonitor
+(0, 25-Oct-2015 03:24:21) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:24:24) StartRuntimeJoystick
+(0, 25-Oct-2015 03:24:24) ************************* False
+(0, 25-Oct-2015 03:24:30) StopButton
+(0, 25-Oct-2015 03:24:30) Compile>Stop
+(0, 25-Oct-2015 03:24:30) StopRuntime
+(0, 25-Oct-2015 03:24:30) StopKeyboardMonitor
+(0, 25-Oct-2015 03:24:30) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:24:30) StopRuntimeJoystick
+(0, 25-Oct-2015 03:26:24) Midi GUI Page
+(0, 25-Oct-2015 03:26:24) CompileCodeA
+(0, 25-Oct-2015 03:26:24) CompileCode
+(0, 25-Oct-2015 03:26:24) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:26:24) EnumerateJoysticks
+(0, 25-Oct-2015 03:26:24) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:26:24) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:26:24) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:26:24) SetMidiLine(63)
+(0, 25-Oct-2015 03:26:24) Midi DeviceBoxChange
+(0, 25-Oct-2015 03:26:24) Midi ChannelBoxChange
+(0, 25-Oct-2015 03:26:24) Midi CategoryBox change
+(0, 25-Oct-2015 03:26:24) MidiFieldBoxClick
+(0, 25-Oct-2015 03:26:24) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:26:24) MidiFuncBoxChange
+(0, 25-Oct-2015 03:26:24) MidiOpBoxChange
+(0, 25-Oct-2015 03:26:24) MidiFieldBoxClick
+(0, 25-Oct-2015 03:26:24) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:26:24) MidiFuncBoxChange
+(0, 25-Oct-2015 03:26:24) MidiOpBoxChange
+(0, 25-Oct-2015 03:26:24) Midi ChannelBoxChange
+(0, 25-Oct-2015 03:26:24) Midi CategoryBox change
+(0, 25-Oct-2015 03:26:24) MidiFieldBoxClick
+(0, 25-Oct-2015 03:26:24) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:26:24) MidiFuncBoxChange
+(0, 25-Oct-2015 03:26:24) MidiOpBoxChange
+(0, 25-Oct-2015 03:26:24) MidiFieldBoxClick
+(0, 25-Oct-2015 03:26:24) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:26:24) MidiFuncBoxChange
+(0, 25-Oct-2015 03:26:24) MidiOpBoxChange
+(0, 25-Oct-2015 03:26:24) Midi CategoryBox change
+(0, 25-Oct-2015 03:26:24) MidiFieldBoxClick
+(0, 25-Oct-2015 03:26:24) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:26:24) MidiFuncBoxChange
+(0, 25-Oct-2015 03:26:24) MidiOpBoxChange
+(0, 25-Oct-2015 03:26:24) MidiFieldBoxClick
+(0, 25-Oct-2015 03:26:24) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:26:24) MidiFuncBoxChange
+(0, 25-Oct-2015 03:26:24) MidiOpBoxChange
+(0, 25-Oct-2015 03:26:30) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:26:30) EnumerateJoysticks
+(0, 25-Oct-2015 03:26:30) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:26:30) StartingInputMonitor Mouse
+(0, 25-Oct-2015 03:26:30) StartKeyboardMonitor
+(0, 25-Oct-2015 03:26:30) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:26:30) StartRuntimeJoystick
+(0, 25-Oct-2015 03:26:30) StartJoystickMonitor
+(0, 25-Oct-2015 03:26:30) StartingInputMonitor Joystick
+(0, 25-Oct-2015 03:26:30) EnumerateJoysticks
+(0, 25-Oct-2015 03:26:30) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:26:30) CreateJoystickDevices
+(0, 25-Oct-2015 03:26:30) CreateForceFeedbackDevices
+(0, 25-Oct-2015 03:26:36) StoppingInputMonitor Mouse
+(0, 25-Oct-2015 03:26:36) StopKeyboardMonitor
+(0, 25-Oct-2015 03:26:36) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:26:36) StopRuntimeJoystick
+(0, 25-Oct-2015 03:26:36) StopJoystickMonitor
+(0, 25-Oct-2015 03:26:36) StoppingInputMonitor Joystick
+(0, 25-Oct-2015 03:26:36) MidiFieldBoxClick
+(0, 25-Oct-2015 03:26:36) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:26:36) MidiFuncBoxChange
+(0, 25-Oct-2015 03:26:36) MidiOpBoxChange
+(0, 25-Oct-2015 03:26:36) Midi DeviceBoxChange
+(0, 25-Oct-2015 03:26:36) Midi ChannelBoxChange
+(0, 25-Oct-2015 03:26:36) Midi CategoryBox change
+(0, 25-Oct-2015 03:26:36) MidiFieldBoxClick
+(0, 25-Oct-2015 03:26:36) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:26:36) MidiFuncBoxChange
+(0, 25-Oct-2015 03:26:36) MidiOpBoxChange
+(0, 25-Oct-2015 03:26:36) MidiFieldBoxClick
+(0, 25-Oct-2015 03:26:36) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:26:36) MidiFuncBoxChange
+(0, 25-Oct-2015 03:26:36) MidiOpBoxChange
+(0, 25-Oct-2015 03:26:36) MidiFieldBoxClick
+(0, 25-Oct-2015 03:26:36) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:26:36) MidiFuncBoxChange
+(0, 25-Oct-2015 03:26:36) MidiOpBoxChange
+(0, 25-Oct-2015 03:26:44) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:26:44) EnumerateJoysticks
+(0, 25-Oct-2015 03:26:44) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:26:44) StartingInputMonitor Mouse
+(0, 25-Oct-2015 03:26:44) StartKeyboardMonitor
+(0, 25-Oct-2015 03:26:44) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:26:44) StartRuntimeJoystick
+(0, 25-Oct-2015 03:26:44) StartJoystickMonitor
+(0, 25-Oct-2015 03:26:44) StartingInputMonitor Joystick
+(0, 25-Oct-2015 03:26:44) EnumerateJoysticks
+(0, 25-Oct-2015 03:26:44) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:26:44) CreateJoystickDevices
+(0, 25-Oct-2015 03:26:44) CreateForceFeedbackDevices
+(0, 25-Oct-2015 03:26:46) StoppingInputMonitor Mouse
+(0, 25-Oct-2015 03:26:46) StopKeyboardMonitor
+(0, 25-Oct-2015 03:26:46) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:26:46) StopRuntimeJoystick
+(0, 25-Oct-2015 03:26:46) StopJoystickMonitor
+(0, 25-Oct-2015 03:26:46) StoppingInputMonitor Joystick
+(0, 25-Oct-2015 03:26:46) MidiFieldBoxClick
+(0, 25-Oct-2015 03:26:46) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:26:46) MidiFuncBoxChange
+(0, 25-Oct-2015 03:26:46) MidiOpBoxChange
+(0, 25-Oct-2015 03:26:46) Midi DeviceBoxChange
+(0, 25-Oct-2015 03:26:46) Midi ChannelBoxChange
+(0, 25-Oct-2015 03:26:46) Midi CategoryBox change
+(0, 25-Oct-2015 03:26:46) MidiFieldBoxClick
+(0, 25-Oct-2015 03:26:46) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:26:46) MidiFuncBoxChange
+(0, 25-Oct-2015 03:26:46) MidiOpBoxChange
+(0, 25-Oct-2015 03:26:46) MidiFieldBoxClick
+(0, 25-Oct-2015 03:26:46) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:26:46) MidiFuncBoxChange
+(0, 25-Oct-2015 03:26:46) MidiOpBoxChange
+(0, 25-Oct-2015 03:26:46) MidiFieldBoxClick
+(0, 25-Oct-2015 03:26:46) MidiSourceDeviceBoxChange
+(0, 25-Oct-2015 03:26:46) MidiFuncBoxChange
+(0, 25-Oct-2015 03:26:46) MidiOpBoxChange
+(0, 25-Oct-2015 03:28:04) Script Page
+(0, 25-Oct-2015 03:28:05) RunButton
+(0, 25-Oct-2015 03:28:05) Compile>Run
+(0, 25-Oct-2015 03:28:05) CompileCode
+(0, 25-Oct-2015 03:28:05) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:28:05) EnumerateJoysticks
+(0, 25-Oct-2015 03:28:05) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:28:05) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:28:05) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:28:05) StartRuntime
+(0, 25-Oct-2015 03:28:05) StartKeyboardMonitor
+(0, 25-Oct-2015 03:28:05) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:28:07) StartRuntimeJoystick
+(0, 25-Oct-2015 03:28:07) ************************* False
+(0, 25-Oct-2015 03:28:19) StopButton
+(0, 25-Oct-2015 03:28:19) Compile>Stop
+(0, 25-Oct-2015 03:28:19) StopRuntime
+(0, 25-Oct-2015 03:28:19) StopKeyboardMonitor
+(0, 25-Oct-2015 03:28:19) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:28:20) StopRuntimeJoystick
+(0, 25-Oct-2015 03:28:32) RunButton
+(0, 25-Oct-2015 03:28:32) Compile>Run
+(0, 25-Oct-2015 03:28:32) CompileCode
+(0, 25-Oct-2015 03:28:32) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:28:32) EnumerateJoysticks
+(0, 25-Oct-2015 03:28:32) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:28:32) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:28:32) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:28:32) StartRuntime
+(0, 25-Oct-2015 03:28:32) StartKeyboardMonitor
+(0, 25-Oct-2015 03:28:32) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:28:34) StartRuntimeJoystick
+(0, 25-Oct-2015 03:28:34) ************************* False
+(0, 25-Oct-2015 03:28:36) StopButton
+(0, 25-Oct-2015 03:28:36) Compile>Stop
+(0, 25-Oct-2015 03:28:36) StopRuntime
+(0, 25-Oct-2015 03:28:36) StopKeyboardMonitor
+(0, 25-Oct-2015 03:28:36) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:28:37) StopRuntimeJoystick
+(0, 25-Oct-2015 03:28:42) RunButton
+(0, 25-Oct-2015 03:28:42) Compile>Run
+(0, 25-Oct-2015 03:28:42) CompileCode
+(0, 25-Oct-2015 03:28:42) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:28:42) EnumerateJoysticks
+(0, 25-Oct-2015 03:28:42) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:28:42) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:28:42) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:28:42) StartRuntime
+(0, 25-Oct-2015 03:28:42) StartKeyboardMonitor
+(0, 25-Oct-2015 03:28:42) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:28:45) StartRuntimeJoystick
+(0, 25-Oct-2015 03:28:45) ************************* False
+(0, 25-Oct-2015 03:28:49) StopButton
+(0, 25-Oct-2015 03:28:49) Compile>Stop
+(0, 25-Oct-2015 03:28:49) StopRuntime
+(0, 25-Oct-2015 03:28:49) StopKeyboardMonitor
+(0, 25-Oct-2015 03:28:49) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:28:49) StopRuntimeJoystick
+(0, 25-Oct-2015 03:30:37) File>Save
+(0, 25-Oct-2015 03:31:48) File>Save
+(0, 25-Oct-2015 03:31:53) RunButton
+(0, 25-Oct-2015 03:31:53) Compile>Run
+(0, 25-Oct-2015 03:31:53) CompileCode
+(0, 25-Oct-2015 03:31:53) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:31:53) EnumerateJoysticks
+(0, 25-Oct-2015 03:31:53) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:31:53) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:31:53) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:31:53) StartRuntime
+(0, 25-Oct-2015 03:31:53) StartKeyboardMonitor
+(0, 25-Oct-2015 03:31:53) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:31:55) StartRuntimeJoystick
+(0, 25-Oct-2015 03:31:55) ************************* False
+(0, 25-Oct-2015 03:32:03) StopButton
+(0, 25-Oct-2015 03:32:03) Compile>Stop
+(0, 25-Oct-2015 03:32:03) StopRuntime
+(0, 25-Oct-2015 03:32:03) StopKeyboardMonitor
+(0, 25-Oct-2015 03:32:03) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:32:04) StopRuntimeJoystick
+(0, 25-Oct-2015 03:32:16) File>Save
+(0, 25-Oct-2015 03:32:17) RunButton
+(0, 25-Oct-2015 03:32:17) Compile>Run
+(0, 25-Oct-2015 03:32:17) CompileCode
+(0, 25-Oct-2015 03:32:17) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:32:17) EnumerateJoysticks
+(0, 25-Oct-2015 03:32:17) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:32:17) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:32:17) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:32:17) StartRuntime
+(0, 25-Oct-2015 03:32:17) StartKeyboardMonitor
+(0, 25-Oct-2015 03:32:17) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:32:20) StartRuntimeJoystick
+(0, 25-Oct-2015 03:32:20) ************************* False
+(0, 25-Oct-2015 03:32:33) StopButton
+(0, 25-Oct-2015 03:32:33) Compile>Stop
+(0, 25-Oct-2015 03:32:33) StopRuntime
+(0, 25-Oct-2015 03:32:33) StopKeyboardMonitor
+(0, 25-Oct-2015 03:32:33) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:32:34) StopRuntimeJoystick
+(0, 25-Oct-2015 03:33:38) File>Save
+(0, 25-Oct-2015 03:33:39) RunButton
+(0, 25-Oct-2015 03:33:39) Compile>Run
+(0, 25-Oct-2015 03:33:39) CompileCode
+(0, 25-Oct-2015 03:33:39) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:33:39) EnumerateJoysticks
+(0, 25-Oct-2015 03:33:39) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:33:39) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:33:39) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:33:39) StartRuntime
+(0, 25-Oct-2015 03:33:39) StartKeyboardMonitor
+(0, 25-Oct-2015 03:33:39) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:33:42) StartRuntimeJoystick
+(0, 25-Oct-2015 03:33:42) ************************* False
+(0, 25-Oct-2015 03:34:16) StopButton
+(0, 25-Oct-2015 03:34:16) Compile>Stop
+(0, 25-Oct-2015 03:34:16) StopRuntime
+(0, 25-Oct-2015 03:34:16) StopKeyboardMonitor
+(0, 25-Oct-2015 03:34:16) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:34:16) RunButton
+(0, 25-Oct-2015 03:34:16) Compile>Run
+(0, 25-Oct-2015 03:34:16) CompileCode
+(0, 25-Oct-2015 03:34:16) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:34:16) EnumerateJoysticks
+(0, 25-Oct-2015 03:34:16) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:34:16) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:34:16) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:34:16) StartRuntime
+(0, 25-Oct-2015 03:34:16) StartKeyboardMonitor
+(0, 25-Oct-2015 03:34:16) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:34:16) StartRuntimeJoystick
+(0, 25-Oct-2015 03:34:16) ************************* False
+(0, 25-Oct-2015 03:34:16) StopButton
+(0, 25-Oct-2015 03:34:16) Compile>Stop
+(0, 25-Oct-2015 03:34:16) StopRuntime
+(0, 25-Oct-2015 03:34:16) StopKeyboardMonitor
+(0, 25-Oct-2015 03:34:16) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:34:16) StopRuntimeJoystick
+(0, 25-Oct-2015 03:34:17) StopRuntimeJoystick
+(0, 25-Oct-2015 03:35:49) File>New
+(0, 25-Oct-2015 03:35:50) ClearMidiGui
+(0, 25-Oct-2015 03:35:56) File>Save
+(0, 25-Oct-2015 03:35:56) File>Save As
+(0, 25-Oct-2015 03:37:13) File>Save
+(0, 25-Oct-2015 03:37:49) File>Save
+(0, 25-Oct-2015 03:38:33) RunButton
+(0, 25-Oct-2015 03:38:33) Compile>Run
+(0, 25-Oct-2015 03:38:33) CompileCode
+(0, 25-Oct-2015 03:38:33) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:38:33) EnumerateJoysticks
+(0, 25-Oct-2015 03:38:33) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:38:33) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:38:33) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:38:33) StartRuntime
+(0, 25-Oct-2015 03:38:33) StartKeyboardMonitor
+(0, 25-Oct-2015 03:38:33) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:38:35) StartRuntimeJoystick
+(0, 25-Oct-2015 03:38:35) ************************* False
+(0, 25-Oct-2015 03:39:30) StopButton
+(0, 25-Oct-2015 03:39:30) Compile>Stop
+(0, 25-Oct-2015 03:39:30) StopRuntime
+(0, 25-Oct-2015 03:39:30) StopKeyboardMonitor
+(0, 25-Oct-2015 03:39:30) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:39:30) StopRuntimeJoystick
+(0, 25-Oct-2015 03:39:54) File>Save
+(0, 25-Oct-2015 03:40:05) File>Save
+(0, 25-Oct-2015 03:46:27) File>Save
+(0, 25-Oct-2015 03:46:29) RunButton
+(0, 25-Oct-2015 03:46:29) Compile>Run
+(0, 25-Oct-2015 03:46:29) CompileCode
+(0, 25-Oct-2015 03:46:29) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:46:29) EnumerateJoysticks
+(0, 25-Oct-2015 03:46:29) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:46:29) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:46:29) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:46:29) StartRuntime
+(0, 25-Oct-2015 03:46:29) StartKeyboardMonitor
+(0, 25-Oct-2015 03:46:29) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:46:31) StartRuntimeJoystick
+(0, 25-Oct-2015 03:46:31) ************************* False
+(0, 25-Oct-2015 03:47:32) StopButton
+(0, 25-Oct-2015 03:47:32) Compile>Stop
+(0, 25-Oct-2015 03:47:32) StopRuntime
+(0, 25-Oct-2015 03:47:32) StopKeyboardMonitor
+(0, 25-Oct-2015 03:47:32) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:47:32) StopRuntimeJoystick
+(0, 25-Oct-2015 03:47:34) File>Save
+(0, 25-Oct-2015 03:47:37) RunButton
+(0, 25-Oct-2015 03:47:37) Compile>Run
+(0, 25-Oct-2015 03:47:37) CompileCode
+(0, 25-Oct-2015 03:47:37) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:47:37) EnumerateJoysticks
+(0, 25-Oct-2015 03:47:37) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:47:37) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:47:37) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:47:37) StartRuntime
+(0, 25-Oct-2015 03:47:37) StartKeyboardMonitor
+(0, 25-Oct-2015 03:47:37) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:47:39) StartRuntimeJoystick
+(0, 25-Oct-2015 03:47:39) ************************* False
+(0, 25-Oct-2015 03:48:01) StopButton
+(0, 25-Oct-2015 03:48:01) Compile>Stop
+(0, 25-Oct-2015 03:48:01) StopRuntime
+(0, 25-Oct-2015 03:48:01) StopKeyboardMonitor
+(0, 25-Oct-2015 03:48:01) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:48:01) StopRuntimeJoystick
+(0, 25-Oct-2015 03:48:29) File>Save
+(0, 25-Oct-2015 03:48:31) RunButton
+(0, 25-Oct-2015 03:48:31) Compile>Run
+(0, 25-Oct-2015 03:48:31) CompileCode
+(0, 25-Oct-2015 03:48:31) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:48:31) EnumerateJoysticks
+(0, 25-Oct-2015 03:48:31) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:48:31) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:48:31) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:48:31) StartRuntime
+(0, 25-Oct-2015 03:48:31) StartKeyboardMonitor
+(0, 25-Oct-2015 03:48:31) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:48:33) StartRuntimeJoystick
+(0, 25-Oct-2015 03:48:33) ************************* False
+(0, 25-Oct-2015 03:49:07) StopButton
+(0, 25-Oct-2015 03:49:07) Compile>Stop
+(0, 25-Oct-2015 03:49:07) StopRuntime
+(0, 25-Oct-2015 03:49:07) StopKeyboardMonitor
+(0, 25-Oct-2015 03:49:07) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:49:07) StopRuntimeJoystick
+(0, 25-Oct-2015 03:49:15) File>Save
+(0, 25-Oct-2015 03:49:30) File>Save
+(0, 25-Oct-2015 03:49:31) RunButton
+(0, 25-Oct-2015 03:49:31) Compile>Run
+(0, 25-Oct-2015 03:49:31) CompileCode
+(0, 25-Oct-2015 03:49:31) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:49:31) EnumerateJoysticks
+(0, 25-Oct-2015 03:49:31) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:49:31) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:49:31) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:49:31) StartRuntime
+(0, 25-Oct-2015 03:49:31) StartKeyboardMonitor
+(0, 25-Oct-2015 03:49:31) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:49:33) StartRuntimeJoystick
+(0, 25-Oct-2015 03:49:33) ************************* False
+(0, 25-Oct-2015 03:51:08) StopButton
+(0, 25-Oct-2015 03:51:08) Compile>Stop
+(0, 25-Oct-2015 03:51:08) StopRuntime
+(0, 25-Oct-2015 03:51:08) StopKeyboardMonitor
+(0, 25-Oct-2015 03:51:08) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:51:09) StopRuntimeJoystick
+(0, 25-Oct-2015 03:52:12) File>Save
+(0, 25-Oct-2015 03:53:53) File>Save
+(0, 25-Oct-2015 03:53:55) RunButton
+(0, 25-Oct-2015 03:53:55) Compile>Run
+(0, 25-Oct-2015 03:53:55) CompileCode
+(0, 25-Oct-2015 03:53:55) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:53:55) EnumerateJoysticks
+(0, 25-Oct-2015 03:53:55) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:53:55) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:53:55) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:53:55) StartRuntime
+(0, 25-Oct-2015 03:53:55) StartKeyboardMonitor
+(0, 25-Oct-2015 03:53:55) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:53:57) StartRuntimeJoystick
+(0, 25-Oct-2015 03:53:57) ************************* False
+(0, 25-Oct-2015 03:57:47) StopButton
+(0, 25-Oct-2015 03:57:47) Compile>Stop
+(0, 25-Oct-2015 03:57:47) StopRuntime
+(0, 25-Oct-2015 03:57:47) StopKeyboardMonitor
+(0, 25-Oct-2015 03:57:47) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:57:48) StopRuntimeJoystick
+(0, 25-Oct-2015 03:57:49) File>Save
+(0, 25-Oct-2015 03:57:53) RunButton
+(0, 25-Oct-2015 03:57:53) Compile>Run
+(0, 25-Oct-2015 03:57:53) CompileCode
+(0, 25-Oct-2015 03:57:53) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:57:53) EnumerateJoysticks
+(0, 25-Oct-2015 03:57:53) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:57:53) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:57:53) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:57:53) StartRuntime
+(0, 25-Oct-2015 03:57:53) StartKeyboardMonitor
+(0, 25-Oct-2015 03:57:53) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:57:55) StartRuntimeJoystick
+(0, 25-Oct-2015 03:57:55) ************************* False
+(0, 25-Oct-2015 03:57:58) StopButton
+(0, 25-Oct-2015 03:57:58) Compile>Stop
+(0, 25-Oct-2015 03:57:58) StopRuntime
+(0, 25-Oct-2015 03:57:58) StopKeyboardMonitor
+(0, 25-Oct-2015 03:57:58) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:57:58) StopRuntimeJoystick
+(0, 25-Oct-2015 03:58:21) RunButton
+(0, 25-Oct-2015 03:58:21) Compile>Run
+(0, 25-Oct-2015 03:58:21) CompileCode
+(0, 25-Oct-2015 03:58:21) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:58:21) EnumerateJoysticks
+(0, 25-Oct-2015 03:58:21) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:58:21) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:58:21) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:58:21) StartRuntime
+(0, 25-Oct-2015 03:58:21) StartKeyboardMonitor
+(0, 25-Oct-2015 03:58:21) StartingInputMonitor keyboard
+(0, 25-Oct-2015 03:58:22) StartRuntimeJoystick
+(0, 25-Oct-2015 03:58:22) ************************* False
+(0, 25-Oct-2015 03:59:41) StopButton
+(0, 25-Oct-2015 03:59:41) Compile>Stop
+(0, 25-Oct-2015 03:59:41) StopRuntime
+(0, 25-Oct-2015 03:59:41) StopKeyboardMonitor
+(0, 25-Oct-2015 03:59:41) StoppingInputMonitor Keyboard
+(0, 25-Oct-2015 03:59:41) StopRuntimeJoystick
+(0, 25-Oct-2015 03:59:57) File>Save
+(0, 25-Oct-2015 03:59:58) RunButton
+(0, 25-Oct-2015 03:59:58) Compile>Run
+(0, 25-Oct-2015 03:59:58) CompileCode
+(0, 25-Oct-2015 03:59:58) StartingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:59:58) EnumerateJoysticks
+(0, 25-Oct-2015 03:59:58) Enumerated... BadGamePad = False
+(0, 25-Oct-2015 03:59:58) StartCompileTimeP5 False
+(0, 25-Oct-2015 03:59:58) StoppingInputMonitor CompileJoystick
+(0, 25-Oct-2015 03:59:58) StartRuntime
+(0, 25-Oct-2015 03:59:58) StartKeyboardMonitor
+(0, 25-Oct-2015 03:59:58) StartingInputMonitor keyboard
+(0, 25-Oct-2015 04:00:01) StartRuntimeJoystick
+(0, 25-Oct-2015 04:00:01) ************************* False
+(0, 25-Oct-2015 04:01:11) StopButton
+(0, 25-Oct-2015 04:01:11) Compile>Stop
+(0, 25-Oct-2015 04:01:11) StopRuntime
+(0, 25-Oct-2015 04:01:11) StopKeyboardMonitor
+(0, 25-Oct-2015 04:01:11) StoppingInputMonitor Keyboard
