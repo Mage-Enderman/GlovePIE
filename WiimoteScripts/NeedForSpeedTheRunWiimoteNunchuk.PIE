@@ -16,8 +16,8 @@ key.A = Wiimote.Left or Wiimote.Nunchuk.JoyX < -0.4 //Wiimote.Nunchuk.Left
 key.D = Wiimote.Right or Wiimote.Nunchuk.JoyX > 0.4 //Wiimote.Nunchuk.Right
 
 // Accelerate, Nitrous
-key.A = Wiimote.A
-key.N = Wiimote.Nunchuk.C
+key.LeftShift = Wiimote.A
+key.LeftControl = Wiimote.Nunchuk.C
 
 // Brake, Handbrake
 key.Z = Wiimote.B
@@ -27,22 +27,17 @@ key.Space = Wiimote.Nunchuk.Z
 key.C = Wiimote.Up
 key.V = Wiimote.Down
 
+// Map, Statistics
+key.M = Wiimote.Plus
+key.T = Wiimote.Minus
+
+// Reset
+key.R = Wiimote.Two
+
 // Menu Selection, Back, Escape
 key.Enter = Wiimote.A
 key.Backspace = Wiimote.B
 key.Escape = Wiimote.Home
 
-// Check Accessory
-if Wiimote.HasNunchuk then
-  var.expansion =
-                Wiimote.Nunchuk.JoyX + ',' +
-                Wiimote.Nunchuk.JoyY
-                te.Nunchuk.gy + ',' +
-                Wiimote.Nunchuk.gz + "; "
-else if Wiimote.HasClassic then
-  var.expansion = 'CL: ' + Wiimote.Classic.RawJoy1X + ',' +
-                  Wiimote.Classic.RawJoy1Y + "; "
-else
-  var.expansion = ""
-end if
-debug = var.Expansion+';  Bat='+Wiimote.Battery+'; Pitch='+RemoveUnits(Wiimote.Pitch)+' Roll='+RemoveUnits(Wiimote.Roll)+'; '+Wiimote.RelAccX+', '+Wiimote.RelAccY+', '+Wiimote.RelAccZ
+// Debug
+debug = 'Battery = ' +Wiimote.Battery + '; Pitch = ' + RemoveUnits(Wiimote.Pitch) + ' Roll = ' + RemoveUnits(Wiimote.Roll) + '; '+ Wiimote.RelAccX + ', ' + Wiimote.RelAccY + ', ' + Wiimote.RelAccZ

@@ -1,6 +1,5 @@
-// Arrow Keys, WASD
-Numpad = Wiimote.DPad
-WASD = Nunchuk.Joy
+// Screenshot
+key.Windows + key.PrintScreen = wiimote.Two
 
 // Camera controls
 Mouse.DirectInputX += Deadzone(Classic.RightStickX)^3 * 10
